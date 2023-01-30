@@ -321,7 +321,7 @@
     {
         "id": "1315LL",
         "eventId": 13,
-        "ageDivision": "1-5",
+        "ageDivision": "1-5-LL",
         "title": "Pole Bending",
         "titleShort": "PB",
         "order": 1,
@@ -453,7 +453,7 @@
     {
         "id": "1415LL",
         "eventId": 14,
-        "ageDivision": "1-5",
+        "ageDivision": "1-5-LL",
         "title": "Barrel Racing",
         "titleShort": "BR",
         "order": 2,
