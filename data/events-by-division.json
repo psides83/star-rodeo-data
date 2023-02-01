@@ -420,54 +420,6 @@
     "isLeadLineClass": false
   },
   {
-    "id": "11919",
-    "eventId": 11,
-    "ageDivision": "9-19",
-    "overEight": true,
-    "title": "Heading",
-    "titleShort": "HD",
-    "order": 7,
-    "entryFee": 20,
-    "type": "Mounted",
-    "isLeadLineClass": false
-  },
-  {
-    "id": "11919",
-    "eventId": 11,
-    "ageDivision": "9-19",
-    "overEight": true,
-    "title": "Heading",
-    "titleShort": "HD",
-    "order": 7,
-    "entryFee": 20,
-    "type": "Mounted",
-    "isLeadLineClass": false
-  },
-  {
-    "id": "12919",
-    "eventId": 12,
-    "ageDivision": "9-19",
-    "overEight": true,
-    "title": "Heeling",
-    "titleShort": "HL",
-    "order": 7,
-    "entryFee": 20,
-    "type": "Mounted",
-    "isLeadLineClass": false
-  },
-  {
-    "id": "12919",
-    "eventId": 12,
-    "ageDivision": "9-19",
-    "overEight": true,
-    "title": "Heeling",
-    "titleShort": "HL",
-    "order": 7,
-    "entryFee": 20,
-    "type": "Mounted",
-    "isLeadLineClass": false
-  },
-  {
     "id": "12919",
     "eventId": 12,
     "ageDivision": "9-19",
