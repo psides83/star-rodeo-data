@@ -502,5 +502,17 @@
     "entryFee": 20,
     "type": "Mounted",
     "isLeadLineClass": false
+  },
+  {
+    "id": "tr",
+    "eventId": "tr",
+    "ageDivision": "9-18",
+    "overEight": true,
+    "title": "Team Roping",
+    "titleShort": "TR",
+    "order": 7,
+    "entryFee": 20,
+    "type": "Mounted",
+    "isLeadLineClass": false
   }
 ]
