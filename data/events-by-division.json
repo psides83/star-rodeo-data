@@ -120,9 +120,9 @@
     "isLeadLineClass": false
   },
   {
-    "id": "51619",
+    "id": "51618",
     "eventId": 5,
-    "ageDivision": "16-19",
+    "ageDivision": "16-18",
     "overEight": true,
     "title": "Mounted Goat Tying",
     "titleShort": "GT",
@@ -156,9 +156,9 @@
     "isLeadLineClass": false
   },
   {
-    "id": "61619",
+    "id": "61618",
     "eventId": 6,
-    "ageDivision": "16-19",
+    "ageDivision": "16-18",
     "overEight": true,
     "title": "Chute Dogging",
     "titleShort": "CD",
@@ -240,9 +240,9 @@
     "isLeadLineClass": false
   },
   {
-    "id": "81619",
+    "id": "81618",
     "eventId": 8,
-    "ageDivision": "16-19",
+    "ageDivision": "16-18",
     "overEight": true,
     "title": "Breakaway",
     "titleShort": "BK",
@@ -276,9 +276,9 @@
     "isLeadLineClass": false
   },
   {
-    "id": "91619",
+    "id": "91618",
     "eventId": 9,
-    "ageDivision": "16-19",
+    "ageDivision": "16-18",
     "overEight": true,
     "title": "Calf Roping",
     "titleShort": "CR",
@@ -324,9 +324,9 @@
     "isLeadLineClass": false
   },
   {
-    "id": "101619",
+    "id": "101618",
     "eventId": 10,
-    "ageDivision": "16-19",
+    "ageDivision": "16-18",
     "overEight": true,
     "title": "Steer Stopping",
     "titleShort": "SS",
@@ -396,9 +396,9 @@
     "isLeadLineClass": false
   },
   {
-    "id": "131619",
+    "id": "131618",
     "eventId": 13,
-    "ageDivision": "16-19",
+    "ageDivision": "16-18",
     "overEight": true,
     "title": "Pole Bending",
     "titleShort": "PB",
@@ -408,9 +408,9 @@
     "isLeadLineClass": false
   },
   {
-    "id": "11919",
+    "id": "11918",
     "eventId": 11,
-    "ageDivision": "9-19",
+    "ageDivision": "9-18",
     "overEight": true,
     "title": "Heading",
     "titleShort": "HD",
@@ -420,9 +420,9 @@
     "isLeadLineClass": false
   },
   {
-    "id": "12919",
+    "id": "12918",
     "eventId": 12,
-    "ageDivision": "9-19",
+    "ageDivision": "9-18",
     "overEight": true,
     "title": "Heeling",
     "titleShort": "HL",
@@ -492,9 +492,9 @@
     "isLeadLineClass": false
   },
   {
-    "id": "141619",
+    "id": "141618",
     "eventId": 14,
-    "ageDivision": "16-19",
+    "ageDivision": "16-18",
     "overEight": true,
     "title": "Barrel Racing",
     "titleShort": "BR",
